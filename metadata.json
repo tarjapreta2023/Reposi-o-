@@ -1,0 +1,8 @@
+{
+  "name": "Falta & Reposição",
+  "description": "App para registro de falta de produtos, sugestões de reposição, controle de etapas e alertas de vencimento.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
